@@ -1,0 +1,7 @@
+E-commerce Sales Analysis — SQL
+
+- Designed and queried a relational e-commerce database with customers, orders, products, and order item tables.
+- Used SQL joins, aggregations, grouping, filtering, subqueries, and CASE statements to analyze revenue, customer behavior, product performance, and order status trends.
+- Extracted business insights such as monthly revenue, top products, best customer segments, top cities, payment method performance, and repeat customer distribution.
+
+Tools: SQL, SQLite, CSV, Data Analysis
