@@ -1,0 +1,901 @@
+order_id,customer_id,order_date,payment_method,status
+O00001,C0212,2024-01-01,Digital Wallet,Delivered
+O00002,C0161,2024-08-14,Credit Card,Delivered
+O00003,C0156,2025-02-13,Cash on Delivery,Delivered
+O00004,C0058,2025-03-06,Credit Card,Delivered
+O00005,C0075,2024-09-17,Debit Card,Delivered
+O00006,C0131,2025-01-17,Cash on Delivery,Delivered
+O00007,C0130,2024-05-16,Credit Card,Delivered
+O00008,C0126,2025-03-19,Cash on Delivery,Delivered
+O00009,C0223,2024-04-06,Cash on Delivery,Delivered
+O00010,C0122,2024-12-27,Digital Wallet,Delivered
+O00011,C0085,2025-03-21,Credit Card,Delivered
+O00012,C0185,2024-03-14,Digital Wallet,Delivered
+O00013,C0245,2024-06-11,Digital Wallet,Delivered
+O00014,C0236,2024-05-27,Cash on Delivery,Delivered
+O00015,C0224,2024-02-21,Digital Wallet,Delivered
+O00016,C0015,2024-05-30,Debit Card,Delivered
+O00017,C0203,2024-04-02,Cash on Delivery,Delivered
+O00018,C0060,2024-08-24,Debit Card,Delivered
+O00019,C0151,2024-06-02,Digital Wallet,Delivered
+O00020,C0098,2024-10-19,Debit Card,Delivered
+O00021,C0232,2024-05-26,Cash on Delivery,Delivered
+O00022,C0194,2025-01-04,Cash on Delivery,Delivered
+O00023,C0192,2024-07-31,Cash on Delivery,Delivered
+O00024,C0234,2025-02-26,Digital Wallet,Cancelled
+O00025,C0247,2024-02-08,Cash on Delivery,Delivered
+O00026,C0143,2024-07-06,Credit Card,Delivered
+O00027,C0173,2025-01-18,Debit Card,Delivered
+O00028,C0057,2024-11-27,Credit Card,Delivered
+O00029,C0127,2024-02-29,Credit Card,Delivered
+O00030,C0108,2024-10-27,Cash on Delivery,Delivered
+O00031,C0056,2024-08-15,Digital Wallet,Cancelled
+O00032,C0243,2025-03-10,Digital Wallet,Delivered
+O00033,C0202,2024-06-19,Cash on Delivery,Returned
+O00034,C0209,2025-03-21,Cash on Delivery,Delivered
+O00035,C0038,2024-03-07,Debit Card,Delivered
+O00036,C0203,2025-02-07,Cash on Delivery,Delivered
+O00037,C0108,2024-09-26,Credit Card,Delivered
+O00038,C0012,2025-01-07,Debit Card,Delivered
+O00039,C0017,2024-03-05,Debit Card,Delivered
+O00040,C0155,2024-08-08,Credit Card,Delivered
+O00041,C0111,2024-08-19,Cash on Delivery,Delivered
+O00042,C0237,2024-08-30,Credit Card,Delivered
+O00043,C0096,2025-02-19,Cash on Delivery,Delivered
+O00044,C0241,2025-01-19,Digital Wallet,Delivered
+O00045,C0040,2024-12-02,Digital Wallet,Delivered
+O00046,C0072,2024-10-20,Cash on Delivery,Delivered
+O00047,C0180,2025-01-25,Debit Card,Delivered
+O00048,C0169,2024-07-24,Credit Card,Delivered
+O00049,C0088,2024-03-21,Debit Card,Delivered
+O00050,C0040,2024-03-21,Credit Card,Delivered
+O00051,C0107,2024-05-19,Cash on Delivery,Delivered
+O00052,C0174,2024-10-30,Digital Wallet,Delivered
+O00053,C0015,2024-01-04,Cash on Delivery,Delivered
+O00054,C0084,2024-03-02,Credit Card,Delivered
+O00055,C0059,2024-09-13,Debit Card,Delivered
+O00056,C0182,2024-11-23,Digital Wallet,Delivered
+O00057,C0118,2025-03-01,Debit Card,Delivered
+O00058,C0086,2025-02-02,Cash on Delivery,Delivered
+O00059,C0246,2025-02-23,Cash on Delivery,Delivered
+O00060,C0195,2025-01-23,Credit Card,Delivered
+O00061,C0237,2025-03-27,Debit Card,Delivered
+O00062,C0071,2024-10-29,Credit Card,Delivered
+O00063,C0095,2025-03-01,Debit Card,Delivered
+O00064,C0116,2025-02-18,Cash on Delivery,Delivered
+O00065,C0183,2024-02-13,Cash on Delivery,Delivered
+O00066,C0100,2024-07-28,Debit Card,Delivered
+O00067,C0143,2024-12-13,Digital Wallet,Delivered
+O00068,C0080,2024-12-01,Digital Wallet,Delivered
+O00069,C0033,2024-12-09,Credit Card,Delivered
+O00070,C0047,2024-04-19,Debit Card,Delivered
+O00071,C0130,2025-01-29,Credit Card,Delivered
+O00072,C0232,2024-03-25,Digital Wallet,Delivered
+O00073,C0073,2025-01-20,Digital Wallet,Delivered
+O00074,C0095,2024-12-13,Digital Wallet,Delivered
+O00075,C0248,2024-03-23,Cash on Delivery,Delivered
+O00076,C0224,2024-07-09,Credit Card,Delivered
+O00077,C0038,2025-03-01,Digital Wallet,Delivered
+O00078,C0096,2024-04-24,Credit Card,Delivered
+O00079,C0010,2024-05-26,Digital Wallet,Delivered
+O00080,C0232,2024-02-10,Credit Card,Delivered
+O00081,C0108,2024-11-23,Digital Wallet,Delivered
+O00082,C0001,2024-11-10,Debit Card,Delivered
+O00083,C0018,2024-09-26,Credit Card,Delivered
+O00084,C0089,2024-05-03,Credit Card,Delivered
+O00085,C0045,2025-03-01,Digital Wallet,Returned
+O00086,C0076,2024-04-13,Credit Card,Delivered
+O00087,C0049,2024-05-26,Debit Card,Delivered
+O00088,C0095,2024-08-11,Digital Wallet,Delivered
+O00089,C0022,2025-01-07,Digital Wallet,Delivered
+O00090,C0076,2024-06-05,Digital Wallet,Delivered
+O00091,C0187,2025-03-21,Debit Card,Delivered
+O00092,C0104,2024-07-05,Cash on Delivery,Cancelled
+O00093,C0009,2024-03-05,Credit Card,Delivered
+O00094,C0116,2024-07-08,Debit Card,Delivered
+O00095,C0081,2024-11-28,Debit Card,Delivered
+O00096,C0234,2024-10-14,Credit Card,Delivered
+O00097,C0074,2024-12-21,Digital Wallet,Delivered
+O00098,C0114,2024-02-14,Debit Card,Delivered
+O00099,C0182,2024-12-24,Cash on Delivery,Delivered
+O00100,C0093,2024-10-10,Debit Card,Delivered
+O00101,C0033,2024-06-11,Credit Card,Delivered
+O00102,C0047,2025-01-28,Cash on Delivery,Delivered
+O00103,C0230,2024-05-25,Credit Card,Delivered
+O00104,C0129,2024-11-24,Cash on Delivery,Delivered
+O00105,C0011,2025-02-26,Credit Card,Delivered
+O00106,C0140,2024-05-28,Debit Card,Delivered
+O00107,C0088,2024-11-06,Cash on Delivery,Delivered
+O00108,C0082,2024-05-03,Digital Wallet,Delivered
+O00109,C0243,2024-07-15,Digital Wallet,Delivered
+O00110,C0128,2025-03-26,Debit Card,Delivered
+O00111,C0056,2024-10-25,Debit Card,Delivered
+O00112,C0173,2024-08-28,Debit Card,Delivered
+O00113,C0144,2024-04-09,Debit Card,Delivered
+O00114,C0072,2025-02-26,Credit Card,Delivered
+O00115,C0143,2024-07-06,Cash on Delivery,Delivered
+O00116,C0122,2024-09-22,Digital Wallet,Delivered
+O00117,C0087,2024-09-16,Digital Wallet,Delivered
+O00118,C0029,2024-08-01,Debit Card,Delivered
+O00119,C0149,2024-10-22,Cash on Delivery,Delivered
+O00120,C0038,2025-02-24,Cash on Delivery,Delivered
+O00121,C0199,2024-11-09,Digital Wallet,Delivered
+O00122,C0123,2024-09-26,Digital Wallet,Delivered
+O00123,C0174,2025-01-30,Debit Card,Delivered
+O00124,C0058,2024-06-01,Debit Card,Delivered
+O00125,C0185,2024-05-20,Debit Card,Delivered
+O00126,C0011,2024-05-27,Credit Card,Delivered
+O00127,C0052,2025-02-27,Debit Card,Delivered
+O00128,C0172,2024-09-28,Cash on Delivery,Delivered
+O00129,C0026,2024-12-14,Cash on Delivery,Delivered
+O00130,C0194,2024-05-27,Debit Card,Delivered
+O00131,C0137,2025-01-13,Credit Card,Delivered
+O00132,C0215,2024-07-22,Digital Wallet,Delivered
+O00133,C0073,2024-08-20,Digital Wallet,Delivered
+O00134,C0208,2024-02-27,Debit Card,Delivered
+O00135,C0173,2025-01-22,Cash on Delivery,Delivered
+O00136,C0083,2024-05-07,Credit Card,Delivered
+O00137,C0150,2025-01-05,Credit Card,Delivered
+O00138,C0120,2024-06-06,Cash on Delivery,Delivered
+O00139,C0057,2024-03-09,Digital Wallet,Delivered
+O00140,C0138,2025-02-14,Cash on Delivery,Delivered
+O00141,C0235,2024-10-15,Credit Card,Delivered
+O00142,C0134,2024-08-14,Credit Card,Delivered
+O00143,C0034,2024-09-19,Digital Wallet,Delivered
+O00144,C0186,2024-01-12,Digital Wallet,Delivered
+O00145,C0109,2024-06-25,Credit Card,Delivered
+O00146,C0009,2024-05-26,Digital Wallet,Delivered
+O00147,C0115,2025-03-21,Digital Wallet,Delivered
+O00148,C0101,2024-09-27,Cash on Delivery,Delivered
+O00149,C0119,2024-12-10,Digital Wallet,Delivered
+O00150,C0208,2024-12-04,Digital Wallet,Delivered
+O00151,C0013,2024-05-05,Credit Card,Delivered
+O00152,C0015,2024-03-12,Debit Card,Delivered
+O00153,C0134,2024-04-23,Digital Wallet,Delivered
+O00154,C0161,2024-12-13,Digital Wallet,Delivered
+O00155,C0098,2025-02-06,Debit Card,Delivered
+O00156,C0138,2024-08-30,Cash on Delivery,Delivered
+O00157,C0144,2024-07-30,Digital Wallet,Delivered
+O00158,C0166,2024-02-10,Digital Wallet,Delivered
+O00159,C0173,2024-11-05,Credit Card,Delivered
+O00160,C0056,2024-09-02,Cash on Delivery,Delivered
+O00161,C0247,2025-01-14,Credit Card,Delivered
+O00162,C0083,2025-02-01,Debit Card,Delivered
+O00163,C0026,2025-02-15,Digital Wallet,Delivered
+O00164,C0012,2024-10-15,Cash on Delivery,Delivered
+O00165,C0185,2024-08-01,Debit Card,Delivered
+O00166,C0128,2024-10-08,Debit Card,Delivered
+O00167,C0235,2025-03-31,Credit Card,Delivered
+O00168,C0056,2024-09-15,Digital Wallet,Delivered
+O00169,C0106,2024-01-07,Credit Card,Delivered
+O00170,C0179,2024-12-11,Digital Wallet,Delivered
+O00171,C0204,2024-07-22,Credit Card,Delivered
+O00172,C0058,2024-06-02,Credit Card,Delivered
+O00173,C0022,2024-09-12,Digital Wallet,Delivered
+O00174,C0059,2024-04-18,Digital Wallet,Delivered
+O00175,C0151,2024-03-14,Digital Wallet,Delivered
+O00176,C0218,2024-07-18,Debit Card,Delivered
+O00177,C0060,2025-03-05,Credit Card,Delivered
+O00178,C0201,2024-08-18,Digital Wallet,Delivered
+O00179,C0198,2024-11-12,Debit Card,Delivered
+O00180,C0190,2024-07-18,Debit Card,Delivered
+O00181,C0070,2024-02-22,Cash on Delivery,Delivered
+O00182,C0027,2024-01-14,Credit Card,Delivered
+O00183,C0099,2024-01-07,Debit Card,Delivered
+O00184,C0036,2024-05-17,Debit Card,Delivered
+O00185,C0077,2024-09-04,Credit Card,Delivered
+O00186,C0216,2024-11-13,Digital Wallet,Delivered
+O00187,C0221,2024-11-29,Cash on Delivery,Delivered
+O00188,C0189,2024-12-21,Digital Wallet,Cancelled
+O00189,C0239,2024-10-15,Cash on Delivery,Delivered
+O00190,C0113,2025-02-12,Debit Card,Delivered
+O00191,C0163,2024-06-04,Cash on Delivery,Delivered
+O00192,C0115,2024-11-02,Digital Wallet,Delivered
+O00193,C0138,2024-10-31,Credit Card,Delivered
+O00194,C0012,2024-10-15,Digital Wallet,Cancelled
+O00195,C0067,2024-04-23,Cash on Delivery,Delivered
+O00196,C0089,2024-01-13,Digital Wallet,Delivered
+O00197,C0037,2024-06-27,Debit Card,Delivered
+O00198,C0116,2024-06-12,Credit Card,Delivered
+O00199,C0142,2024-03-22,Debit Card,Delivered
+O00200,C0055,2024-04-15,Debit Card,Delivered
+O00201,C0068,2024-12-09,Digital Wallet,Delivered
+O00202,C0217,2024-08-22,Cash on Delivery,Delivered
+O00203,C0062,2024-06-05,Credit Card,Delivered
+O00204,C0048,2024-09-06,Cash on Delivery,Delivered
+O00205,C0092,2024-01-05,Digital Wallet,Delivered
+O00206,C0022,2024-10-16,Credit Card,Delivered
+O00207,C0074,2024-03-27,Digital Wallet,Delivered
+O00208,C0140,2025-02-25,Debit Card,Delivered
+O00209,C0168,2025-01-19,Cash on Delivery,Delivered
+O00210,C0221,2024-12-29,Digital Wallet,Delivered
+O00211,C0016,2024-10-18,Debit Card,Delivered
+O00212,C0244,2025-03-15,Credit Card,Delivered
+O00213,C0222,2024-03-08,Cash on Delivery,Delivered
+O00214,C0101,2024-09-07,Cash on Delivery,Delivered
+O00215,C0163,2025-02-10,Credit Card,Delivered
+O00216,C0199,2025-03-09,Credit Card,Delivered
+O00217,C0212,2024-04-18,Digital Wallet,Delivered
+O00218,C0013,2024-01-24,Credit Card,Delivered
+O00219,C0233,2024-03-08,Debit Card,Delivered
+O00220,C0161,2024-06-05,Cash on Delivery,Delivered
+O00221,C0020,2024-03-08,Cash on Delivery,Delivered
+O00222,C0031,2025-03-16,Digital Wallet,Delivered
+O00223,C0095,2025-03-27,Debit Card,Delivered
+O00224,C0043,2024-08-13,Debit Card,Delivered
+O00225,C0230,2024-02-21,Cash on Delivery,Delivered
+O00226,C0071,2024-11-26,Credit Card,Delivered
+O00227,C0169,2025-03-24,Debit Card,Delivered
+O00228,C0245,2024-05-02,Digital Wallet,Delivered
+O00229,C0093,2024-06-11,Cash on Delivery,Delivered
+O00230,C0018,2024-01-08,Debit Card,Delivered
+O00231,C0164,2024-10-01,Cash on Delivery,Delivered
+O00232,C0040,2024-10-01,Debit Card,Delivered
+O00233,C0015,2024-05-05,Credit Card,Delivered
+O00234,C0171,2025-01-14,Cash on Delivery,Delivered
+O00235,C0211,2025-01-04,Debit Card,Delivered
+O00236,C0198,2024-01-16,Debit Card,Delivered
+O00237,C0161,2024-02-09,Digital Wallet,Delivered
+O00238,C0095,2024-03-21,Debit Card,Delivered
+O00239,C0099,2024-03-17,Cash on Delivery,Delivered
+O00240,C0147,2024-07-09,Credit Card,Delivered
+O00241,C0217,2024-06-08,Debit Card,Delivered
+O00242,C0063,2024-08-25,Debit Card,Delivered
+O00243,C0007,2024-04-29,Debit Card,Delivered
+O00244,C0187,2024-06-06,Credit Card,Delivered
+O00245,C0118,2025-01-17,Credit Card,Delivered
+O00246,C0061,2024-05-29,Debit Card,Delivered
+O00247,C0150,2024-02-25,Cash on Delivery,Delivered
+O00248,C0092,2025-01-29,Cash on Delivery,Delivered
+O00249,C0179,2024-11-04,Credit Card,Delivered
+O00250,C0045,2024-01-16,Digital Wallet,Delivered
+O00251,C0032,2024-01-07,Credit Card,Delivered
+O00252,C0051,2024-11-26,Digital Wallet,Delivered
+O00253,C0013,2024-03-27,Digital Wallet,Delivered
+O00254,C0045,2024-06-30,Cash on Delivery,Delivered
+O00255,C0158,2024-11-13,Cash on Delivery,Delivered
+O00256,C0052,2024-11-25,Cash on Delivery,Delivered
+O00257,C0070,2024-04-02,Credit Card,Delivered
+O00258,C0136,2024-07-02,Cash on Delivery,Cancelled
+O00259,C0203,2025-01-12,Credit Card,Delivered
+O00260,C0189,2024-12-23,Debit Card,Delivered
+O00261,C0037,2024-10-15,Cash on Delivery,Delivered
+O00262,C0135,2024-09-01,Credit Card,Delivered
+O00263,C0016,2024-01-12,Cash on Delivery,Delivered
+O00264,C0087,2024-06-03,Debit Card,Delivered
+O00265,C0167,2024-06-11,Cash on Delivery,Delivered
+O00266,C0079,2025-01-10,Debit Card,Delivered
+O00267,C0047,2024-11-04,Debit Card,Delivered
+O00268,C0211,2024-12-28,Debit Card,Delivered
+O00269,C0066,2025-02-06,Credit Card,Delivered
+O00270,C0227,2024-07-30,Digital Wallet,Delivered
+O00271,C0202,2025-03-18,Cash on Delivery,Delivered
+O00272,C0067,2024-02-23,Credit Card,Delivered
+O00273,C0008,2024-08-08,Cash on Delivery,Delivered
+O00274,C0250,2024-04-07,Digital Wallet,Delivered
+O00275,C0101,2024-10-19,Digital Wallet,Delivered
+O00276,C0170,2024-11-16,Digital Wallet,Delivered
+O00277,C0122,2025-03-08,Credit Card,Delivered
+O00278,C0024,2024-11-24,Digital Wallet,Delivered
+O00279,C0016,2024-03-18,Credit Card,Delivered
+O00280,C0151,2024-04-26,Credit Card,Delivered
+O00281,C0183,2024-01-18,Cash on Delivery,Delivered
+O00282,C0109,2024-02-10,Digital Wallet,Delivered
+O00283,C0102,2024-10-09,Debit Card,Delivered
+O00284,C0039,2024-03-16,Credit Card,Delivered
+O00285,C0099,2024-12-01,Digital Wallet,Delivered
+O00286,C0103,2024-01-20,Digital Wallet,Delivered
+O00287,C0236,2024-05-17,Debit Card,Delivered
+O00288,C0035,2024-06-02,Digital Wallet,Delivered
+O00289,C0049,2024-08-14,Cash on Delivery,Delivered
+O00290,C0096,2025-02-24,Credit Card,Delivered
+O00291,C0035,2025-02-03,Credit Card,Delivered
+O00292,C0211,2024-08-25,Digital Wallet,Delivered
+O00293,C0153,2024-08-16,Cash on Delivery,Cancelled
+O00294,C0213,2024-12-18,Credit Card,Delivered
+O00295,C0248,2024-04-19,Cash on Delivery,Delivered
+O00296,C0175,2024-01-05,Digital Wallet,Delivered
+O00297,C0183,2024-12-29,Debit Card,Delivered
+O00298,C0120,2024-06-03,Digital Wallet,Delivered
+O00299,C0156,2024-05-24,Debit Card,Delivered
+O00300,C0183,2024-11-29,Debit Card,Delivered
+O00301,C0170,2024-06-12,Cash on Delivery,Delivered
+O00302,C0150,2024-12-28,Cash on Delivery,Delivered
+O00303,C0217,2024-03-28,Cash on Delivery,Delivered
+O00304,C0168,2024-02-15,Cash on Delivery,Delivered
+O00305,C0076,2024-08-25,Credit Card,Delivered
+O00306,C0077,2024-07-30,Credit Card,Delivered
+O00307,C0229,2024-08-22,Cash on Delivery,Delivered
+O00308,C0002,2024-08-19,Debit Card,Delivered
+O00309,C0158,2024-08-10,Digital Wallet,Delivered
+O00310,C0002,2024-11-16,Cash on Delivery,Delivered
+O00311,C0243,2024-05-28,Digital Wallet,Delivered
+O00312,C0092,2025-01-19,Cash on Delivery,Delivered
+O00313,C0032,2024-07-06,Credit Card,Delivered
+O00314,C0215,2024-01-11,Credit Card,Delivered
+O00315,C0122,2024-12-25,Cash on Delivery,Delivered
+O00316,C0160,2024-11-06,Cash on Delivery,Delivered
+O00317,C0068,2025-03-01,Cash on Delivery,Delivered
+O00318,C0234,2024-04-16,Digital Wallet,Delivered
+O00319,C0147,2024-12-08,Digital Wallet,Delivered
+O00320,C0026,2024-05-11,Cash on Delivery,Delivered
+O00321,C0030,2024-02-18,Credit Card,Delivered
+O00322,C0245,2024-11-14,Debit Card,Delivered
+O00323,C0103,2024-08-21,Debit Card,Delivered
+O00324,C0179,2025-01-06,Credit Card,Returned
+O00325,C0092,2024-11-09,Credit Card,Delivered
+O00326,C0004,2024-12-26,Cash on Delivery,Cancelled
+O00327,C0170,2025-01-07,Cash on Delivery,Delivered
+O00328,C0014,2024-01-06,Cash on Delivery,Delivered
+O00329,C0249,2024-05-22,Credit Card,Delivered
+O00330,C0147,2024-08-17,Credit Card,Delivered
+O00331,C0168,2024-01-10,Credit Card,Delivered
+O00332,C0203,2024-11-05,Debit Card,Delivered
+O00333,C0117,2024-06-18,Digital Wallet,Delivered
+O00334,C0169,2024-04-23,Credit Card,Delivered
+O00335,C0184,2025-01-15,Digital Wallet,Delivered
+O00336,C0201,2024-04-07,Debit Card,Delivered
+O00337,C0118,2024-12-03,Cash on Delivery,Cancelled
+O00338,C0215,2024-10-26,Digital Wallet,Delivered
+O00339,C0169,2024-11-03,Debit Card,Delivered
+O00340,C0064,2024-05-20,Digital Wallet,Cancelled
+O00341,C0240,2024-10-10,Cash on Delivery,Delivered
+O00342,C0250,2024-04-01,Debit Card,Delivered
+O00343,C0192,2025-03-06,Debit Card,Delivered
+O00344,C0098,2024-03-15,Credit Card,Delivered
+O00345,C0065,2024-03-15,Credit Card,Delivered
+O00346,C0116,2024-02-22,Cash on Delivery,Delivered
+O00347,C0171,2024-01-25,Digital Wallet,Delivered
+O00348,C0181,2024-12-29,Debit Card,Delivered
+O00349,C0175,2024-02-08,Cash on Delivery,Cancelled
+O00350,C0042,2024-10-26,Debit Card,Delivered
+O00351,C0239,2024-11-16,Debit Card,Delivered
+O00352,C0134,2024-02-04,Cash on Delivery,Delivered
+O00353,C0093,2024-05-30,Cash on Delivery,Cancelled
+O00354,C0089,2024-08-16,Cash on Delivery,Delivered
+O00355,C0235,2025-02-11,Credit Card,Delivered
+O00356,C0206,2024-09-17,Digital Wallet,Delivered
+O00357,C0243,2024-02-19,Cash on Delivery,Cancelled
+O00358,C0055,2025-03-18,Digital Wallet,Delivered
+O00359,C0192,2024-12-17,Cash on Delivery,Delivered
+O00360,C0019,2024-10-21,Cash on Delivery,Delivered
+O00361,C0081,2024-01-09,Digital Wallet,Delivered
+O00362,C0019,2024-07-02,Credit Card,Delivered
+O00363,C0170,2024-01-16,Digital Wallet,Delivered
+O00364,C0140,2024-05-31,Cash on Delivery,Delivered
+O00365,C0138,2024-10-07,Credit Card,Delivered
+O00366,C0042,2024-04-04,Cash on Delivery,Delivered
+O00367,C0146,2025-03-12,Credit Card,Delivered
+O00368,C0244,2024-06-18,Debit Card,Delivered
+O00369,C0085,2024-11-11,Debit Card,Delivered
+O00370,C0246,2024-08-07,Cash on Delivery,Delivered
+O00371,C0112,2024-05-21,Debit Card,Delivered
+O00372,C0028,2024-03-30,Credit Card,Delivered
+O00373,C0130,2024-11-19,Credit Card,Delivered
+O00374,C0121,2024-11-30,Cash on Delivery,Delivered
+O00375,C0035,2024-08-25,Credit Card,Delivered
+O00376,C0041,2024-04-01,Cash on Delivery,Delivered
+O00377,C0095,2024-04-29,Credit Card,Delivered
+O00378,C0167,2024-06-14,Credit Card,Delivered
+O00379,C0097,2024-07-06,Credit Card,Delivered
+O00380,C0210,2025-03-20,Debit Card,Delivered
+O00381,C0020,2024-09-20,Debit Card,Delivered
+O00382,C0031,2024-12-04,Cash on Delivery,Delivered
+O00383,C0123,2024-04-17,Cash on Delivery,Delivered
+O00384,C0152,2024-03-23,Cash on Delivery,Delivered
+O00385,C0067,2024-04-02,Digital Wallet,Delivered
+O00386,C0223,2024-09-03,Cash on Delivery,Delivered
+O00387,C0197,2024-04-03,Debit Card,Delivered
+O00388,C0028,2024-01-09,Cash on Delivery,Delivered
+O00389,C0137,2024-09-14,Credit Card,Delivered
+O00390,C0134,2024-08-03,Debit Card,Delivered
+O00391,C0090,2024-10-28,Credit Card,Delivered
+O00392,C0073,2024-11-02,Digital Wallet,Delivered
+O00393,C0134,2024-01-04,Digital Wallet,Delivered
+O00394,C0065,2024-05-13,Digital Wallet,Delivered
+O00395,C0095,2024-10-13,Digital Wallet,Delivered
+O00396,C0189,2024-03-11,Credit Card,Delivered
+O00397,C0103,2025-02-06,Debit Card,Delivered
+O00398,C0211,2024-03-15,Digital Wallet,Delivered
+O00399,C0021,2024-11-07,Credit Card,Delivered
+O00400,C0127,2024-08-12,Credit Card,Delivered
+O00401,C0179,2024-04-28,Cash on Delivery,Delivered
+O00402,C0071,2025-02-03,Digital Wallet,Delivered
+O00403,C0189,2024-12-26,Credit Card,Delivered
+O00404,C0247,2024-04-09,Digital Wallet,Delivered
+O00405,C0076,2024-06-23,Credit Card,Delivered
+O00406,C0230,2024-10-27,Credit Card,Delivered
+O00407,C0174,2024-12-25,Cash on Delivery,Delivered
+O00408,C0180,2025-03-02,Debit Card,Delivered
+O00409,C0122,2024-06-09,Debit Card,Delivered
+O00410,C0224,2024-05-15,Cash on Delivery,Delivered
+O00411,C0158,2024-01-04,Credit Card,Delivered
+O00412,C0223,2024-05-20,Digital Wallet,Delivered
+O00413,C0135,2025-02-13,Digital Wallet,Delivered
+O00414,C0250,2024-03-02,Digital Wallet,Delivered
+O00415,C0084,2024-07-04,Debit Card,Delivered
+O00416,C0088,2024-07-06,Cash on Delivery,Delivered
+O00417,C0072,2024-08-18,Cash on Delivery,Delivered
+O00418,C0003,2024-03-31,Digital Wallet,Delivered
+O00419,C0209,2024-05-10,Digital Wallet,Delivered
+O00420,C0144,2024-10-12,Debit Card,Delivered
+O00421,C0051,2024-10-22,Cash on Delivery,Cancelled
+O00422,C0199,2025-01-12,Digital Wallet,Delivered
+O00423,C0223,2024-03-26,Debit Card,Delivered
+O00424,C0168,2024-05-29,Debit Card,Delivered
+O00425,C0192,2024-10-27,Digital Wallet,Delivered
+O00426,C0170,2024-05-08,Credit Card,Delivered
+O00427,C0141,2024-01-28,Credit Card,Delivered
+O00428,C0080,2024-04-27,Cash on Delivery,Delivered
+O00429,C0044,2024-01-15,Credit Card,Delivered
+O00430,C0139,2024-03-31,Digital Wallet,Delivered
+O00431,C0124,2024-10-03,Cash on Delivery,Delivered
+O00432,C0078,2024-01-06,Credit Card,Delivered
+O00433,C0243,2025-01-21,Digital Wallet,Delivered
+O00434,C0106,2025-03-27,Digital Wallet,Delivered
+O00435,C0068,2024-02-10,Digital Wallet,Delivered
+O00436,C0106,2024-04-06,Credit Card,Delivered
+O00437,C0180,2024-11-14,Digital Wallet,Delivered
+O00438,C0048,2024-02-22,Debit Card,Delivered
+O00439,C0108,2024-06-08,Digital Wallet,Returned
+O00440,C0069,2025-02-01,Digital Wallet,Delivered
+O00441,C0183,2024-05-07,Digital Wallet,Delivered
+O00442,C0198,2024-02-18,Cash on Delivery,Delivered
+O00443,C0134,2024-03-03,Debit Card,Delivered
+O00444,C0171,2024-04-21,Credit Card,Delivered
+O00445,C0150,2024-03-02,Digital Wallet,Delivered
+O00446,C0122,2024-12-18,Cash on Delivery,Delivered
+O00447,C0159,2024-06-22,Credit Card,Delivered
+O00448,C0202,2024-11-26,Debit Card,Delivered
+O00449,C0092,2025-01-05,Cash on Delivery,Delivered
+O00450,C0179,2024-09-07,Cash on Delivery,Delivered
+O00451,C0142,2024-03-23,Credit Card,Delivered
+O00452,C0001,2025-02-01,Digital Wallet,Delivered
+O00453,C0135,2024-12-15,Digital Wallet,Delivered
+O00454,C0083,2024-02-26,Credit Card,Delivered
+O00455,C0052,2024-02-24,Digital Wallet,Delivered
+O00456,C0160,2024-12-25,Debit Card,Delivered
+O00457,C0168,2024-09-08,Credit Card,Delivered
+O00458,C0182,2024-01-30,Debit Card,Delivered
+O00459,C0060,2024-09-29,Digital Wallet,Delivered
+O00460,C0107,2025-01-17,Credit Card,Delivered
+O00461,C0103,2024-09-15,Debit Card,Delivered
+O00462,C0217,2024-07-09,Digital Wallet,Delivered
+O00463,C0140,2024-04-19,Digital Wallet,Delivered
+O00464,C0005,2024-09-22,Cash on Delivery,Returned
+O00465,C0220,2024-06-10,Credit Card,Delivered
+O00466,C0036,2024-05-15,Debit Card,Delivered
+O00467,C0147,2024-07-23,Cash on Delivery,Delivered
+O00468,C0233,2024-02-18,Debit Card,Delivered
+O00469,C0031,2025-03-21,Cash on Delivery,Delivered
+O00470,C0179,2024-04-23,Cash on Delivery,Delivered
+O00471,C0111,2024-05-28,Digital Wallet,Delivered
+O00472,C0141,2024-07-23,Debit Card,Delivered
+O00473,C0147,2024-04-10,Cash on Delivery,Delivered
+O00474,C0023,2024-02-27,Digital Wallet,Delivered
+O00475,C0007,2025-01-29,Debit Card,Delivered
+O00476,C0012,2025-02-22,Cash on Delivery,Delivered
+O00477,C0063,2024-11-13,Cash on Delivery,Delivered
+O00478,C0053,2024-10-06,Debit Card,Delivered
+O00479,C0044,2024-01-31,Debit Card,Delivered
+O00480,C0070,2024-12-05,Debit Card,Delivered
+O00481,C0131,2024-12-29,Credit Card,Delivered
+O00482,C0144,2024-12-30,Credit Card,Delivered
+O00483,C0078,2024-04-30,Debit Card,Delivered
+O00484,C0230,2024-07-20,Cash on Delivery,Delivered
+O00485,C0059,2024-08-01,Cash on Delivery,Delivered
+O00486,C0115,2024-10-04,Cash on Delivery,Delivered
+O00487,C0221,2024-03-11,Debit Card,Delivered
+O00488,C0243,2025-01-03,Credit Card,Delivered
+O00489,C0229,2024-11-22,Debit Card,Delivered
+O00490,C0157,2024-11-11,Debit Card,Delivered
+O00491,C0200,2024-09-01,Cash on Delivery,Delivered
+O00492,C0050,2024-04-25,Credit Card,Delivered
+O00493,C0118,2025-03-30,Cash on Delivery,Delivered
+O00494,C0147,2024-10-31,Credit Card,Delivered
+O00495,C0143,2024-07-17,Credit Card,Delivered
+O00496,C0119,2024-03-26,Digital Wallet,Delivered
+O00497,C0150,2024-12-22,Cash on Delivery,Delivered
+O00498,C0230,2024-12-30,Cash on Delivery,Delivered
+O00499,C0204,2024-03-24,Credit Card,Delivered
+O00500,C0157,2024-03-22,Digital Wallet,Delivered
+O00501,C0224,2024-12-03,Cash on Delivery,Delivered
+O00502,C0187,2025-01-28,Digital Wallet,Delivered
+O00503,C0160,2025-01-26,Debit Card,Delivered
+O00504,C0056,2024-10-28,Digital Wallet,Delivered
+O00505,C0226,2024-10-07,Debit Card,Delivered
+O00506,C0038,2025-03-13,Credit Card,Delivered
+O00507,C0170,2024-12-20,Cash on Delivery,Cancelled
+O00508,C0210,2024-02-04,Digital Wallet,Delivered
+O00509,C0221,2024-05-20,Debit Card,Delivered
+O00510,C0136,2024-02-14,Digital Wallet,Delivered
+O00511,C0160,2024-06-30,Cash on Delivery,Delivered
+O00512,C0001,2024-03-01,Credit Card,Delivered
+O00513,C0144,2025-02-16,Cash on Delivery,Delivered
+O00514,C0079,2024-06-02,Debit Card,Delivered
+O00515,C0146,2024-11-11,Credit Card,Delivered
+O00516,C0235,2024-08-30,Credit Card,Delivered
+O00517,C0238,2025-01-15,Credit Card,Delivered
+O00518,C0054,2024-10-22,Debit Card,Delivered
+O00519,C0043,2024-10-19,Digital Wallet,Delivered
+O00520,C0182,2024-01-17,Debit Card,Delivered
+O00521,C0045,2024-02-27,Debit Card,Delivered
+O00522,C0040,2024-04-07,Debit Card,Delivered
+O00523,C0211,2024-09-21,Cash on Delivery,Delivered
+O00524,C0030,2024-01-03,Debit Card,Delivered
+O00525,C0169,2025-01-16,Debit Card,Delivered
+O00526,C0198,2024-08-13,Credit Card,Delivered
+O00527,C0144,2024-09-20,Credit Card,Delivered
+O00528,C0206,2024-05-25,Cash on Delivery,Delivered
+O00529,C0034,2024-01-15,Digital Wallet,Delivered
+O00530,C0101,2024-04-01,Digital Wallet,Delivered
+O00531,C0208,2024-09-30,Credit Card,Cancelled
+O00532,C0120,2024-02-19,Digital Wallet,Delivered
+O00533,C0067,2024-07-05,Digital Wallet,Delivered
+O00534,C0044,2024-05-24,Debit Card,Delivered
+O00535,C0204,2024-02-24,Debit Card,Delivered
+O00536,C0152,2024-07-30,Cash on Delivery,Delivered
+O00537,C0111,2025-02-05,Digital Wallet,Delivered
+O00538,C0020,2025-01-13,Digital Wallet,Delivered
+O00539,C0018,2024-11-02,Credit Card,Delivered
+O00540,C0210,2024-03-12,Credit Card,Delivered
+O00541,C0053,2024-12-14,Debit Card,Delivered
+O00542,C0003,2024-11-09,Digital Wallet,Delivered
+O00543,C0221,2024-05-24,Credit Card,Delivered
+O00544,C0055,2024-12-05,Cash on Delivery,Delivered
+O00545,C0216,2024-08-01,Cash on Delivery,Delivered
+O00546,C0022,2024-03-11,Digital Wallet,Delivered
+O00547,C0058,2024-04-05,Digital Wallet,Delivered
+O00548,C0010,2024-10-17,Digital Wallet,Delivered
+O00549,C0037,2025-01-08,Debit Card,Delivered
+O00550,C0162,2025-01-14,Credit Card,Delivered
+O00551,C0121,2024-08-20,Digital Wallet,Delivered
+O00552,C0076,2024-05-28,Cash on Delivery,Delivered
+O00553,C0208,2025-01-12,Credit Card,Delivered
+O00554,C0072,2024-05-09,Cash on Delivery,Delivered
+O00555,C0155,2024-03-30,Cash on Delivery,Delivered
+O00556,C0061,2024-09-05,Cash on Delivery,Delivered
+O00557,C0198,2024-07-15,Cash on Delivery,Delivered
+O00558,C0068,2025-01-21,Credit Card,Delivered
+O00559,C0098,2024-12-15,Digital Wallet,Delivered
+O00560,C0115,2024-07-14,Debit Card,Cancelled
+O00561,C0111,2024-11-08,Debit Card,Delivered
+O00562,C0101,2024-08-24,Cash on Delivery,Delivered
+O00563,C0141,2024-01-06,Credit Card,Delivered
+O00564,C0115,2024-06-28,Cash on Delivery,Delivered
+O00565,C0015,2024-10-31,Cash on Delivery,Cancelled
+O00566,C0231,2024-11-27,Cash on Delivery,Delivered
+O00567,C0197,2024-08-06,Debit Card,Delivered
+O00568,C0245,2025-02-20,Debit Card,Delivered
+O00569,C0166,2024-09-08,Credit Card,Delivered
+O00570,C0009,2024-02-07,Credit Card,Delivered
+O00571,C0039,2024-11-30,Credit Card,Delivered
+O00572,C0182,2025-01-29,Digital Wallet,Delivered
+O00573,C0099,2024-12-18,Digital Wallet,Delivered
+O00574,C0024,2024-07-06,Debit Card,Delivered
+O00575,C0049,2024-06-02,Digital Wallet,Delivered
+O00576,C0036,2024-01-19,Cash on Delivery,Delivered
+O00577,C0010,2024-06-22,Credit Card,Delivered
+O00578,C0241,2024-12-13,Cash on Delivery,Delivered
+O00579,C0126,2024-11-30,Credit Card,Delivered
+O00580,C0117,2024-11-08,Cash on Delivery,Delivered
+O00581,C0205,2024-11-11,Cash on Delivery,Delivered
+O00582,C0174,2024-07-24,Debit Card,Delivered
+O00583,C0152,2024-03-29,Debit Card,Delivered
+O00584,C0142,2024-03-25,Digital Wallet,Delivered
+O00585,C0041,2024-01-09,Digital Wallet,Delivered
+O00586,C0228,2024-05-25,Digital Wallet,Delivered
+O00587,C0106,2024-05-02,Cash on Delivery,Delivered
+O00588,C0244,2024-02-15,Debit Card,Delivered
+O00589,C0025,2024-11-12,Debit Card,Delivered
+O00590,C0172,2024-01-23,Credit Card,Delivered
+O00591,C0207,2025-03-31,Digital Wallet,Delivered
+O00592,C0019,2024-04-30,Digital Wallet,Delivered
+O00593,C0059,2025-02-02,Credit Card,Delivered
+O00594,C0229,2024-04-22,Credit Card,Delivered
+O00595,C0096,2024-03-10,Digital Wallet,Delivered
+O00596,C0072,2024-03-10,Credit Card,Delivered
+O00597,C0204,2024-11-22,Cash on Delivery,Delivered
+O00598,C0152,2024-08-30,Digital Wallet,Delivered
+O00599,C0243,2024-03-17,Credit Card,Delivered
+O00600,C0009,2024-08-05,Digital Wallet,Delivered
+O00601,C0178,2025-01-09,Digital Wallet,Delivered
+O00602,C0005,2024-09-02,Debit Card,Delivered
+O00603,C0224,2024-12-26,Digital Wallet,Delivered
+O00604,C0070,2024-12-23,Cash on Delivery,Delivered
+O00605,C0132,2024-12-11,Debit Card,Delivered
+O00606,C0094,2024-07-06,Cash on Delivery,Delivered
+O00607,C0167,2024-09-01,Cash on Delivery,Delivered
+O00608,C0014,2024-02-02,Debit Card,Delivered
+O00609,C0231,2024-05-29,Digital Wallet,Delivered
+O00610,C0230,2024-04-01,Debit Card,Cancelled
+O00611,C0038,2024-09-11,Cash on Delivery,Delivered
+O00612,C0122,2024-06-26,Digital Wallet,Delivered
+O00613,C0243,2024-09-23,Debit Card,Delivered
+O00614,C0179,2024-09-28,Digital Wallet,Delivered
+O00615,C0198,2025-03-08,Credit Card,Delivered
+O00616,C0183,2024-10-01,Debit Card,Delivered
+O00617,C0011,2024-06-11,Cash on Delivery,Delivered
+O00618,C0171,2024-06-11,Debit Card,Delivered
+O00619,C0236,2024-01-13,Digital Wallet,Delivered
+O00620,C0085,2024-11-27,Debit Card,Delivered
+O00621,C0145,2025-01-08,Digital Wallet,Delivered
+O00622,C0174,2024-10-09,Credit Card,Delivered
+O00623,C0084,2024-01-29,Cash on Delivery,Delivered
+O00624,C0138,2025-03-10,Digital Wallet,Delivered
+O00625,C0219,2024-08-06,Debit Card,Delivered
+O00626,C0224,2024-10-14,Credit Card,Delivered
+O00627,C0036,2025-03-03,Credit Card,Delivered
+O00628,C0239,2024-10-29,Digital Wallet,Delivered
+O00629,C0119,2024-12-29,Cash on Delivery,Delivered
+O00630,C0190,2024-08-25,Cash on Delivery,Delivered
+O00631,C0214,2024-11-21,Digital Wallet,Delivered
+O00632,C0031,2025-01-26,Debit Card,Delivered
+O00633,C0132,2025-01-10,Credit Card,Delivered
+O00634,C0225,2024-12-20,Cash on Delivery,Delivered
+O00635,C0013,2024-05-28,Debit Card,Delivered
+O00636,C0212,2025-03-08,Debit Card,Delivered
+O00637,C0036,2024-09-22,Debit Card,Delivered
+O00638,C0049,2025-02-11,Credit Card,Delivered
+O00639,C0134,2025-01-25,Debit Card,Delivered
+O00640,C0178,2024-03-13,Cash on Delivery,Delivered
+O00641,C0201,2024-02-27,Credit Card,Delivered
+O00642,C0152,2024-01-31,Digital Wallet,Delivered
+O00643,C0194,2024-02-19,Credit Card,Delivered
+O00644,C0008,2024-02-16,Cash on Delivery,Delivered
+O00645,C0018,2024-02-20,Credit Card,Delivered
+O00646,C0026,2024-04-19,Digital Wallet,Delivered
+O00647,C0055,2024-09-20,Cash on Delivery,Delivered
+O00648,C0093,2024-12-26,Debit Card,Delivered
+O00649,C0073,2024-08-21,Debit Card,Delivered
+O00650,C0206,2024-08-31,Debit Card,Delivered
+O00651,C0190,2024-03-27,Credit Card,Delivered
+O00652,C0032,2024-04-29,Digital Wallet,Delivered
+O00653,C0203,2025-02-14,Digital Wallet,Delivered
+O00654,C0032,2024-05-08,Digital Wallet,Delivered
+O00655,C0174,2024-01-14,Cash on Delivery,Delivered
+O00656,C0193,2024-09-23,Digital Wallet,Delivered
+O00657,C0139,2024-06-24,Credit Card,Cancelled
+O00658,C0099,2024-08-18,Debit Card,Delivered
+O00659,C0169,2025-03-16,Debit Card,Delivered
+O00660,C0100,2024-09-06,Credit Card,Delivered
+O00661,C0130,2024-01-29,Digital Wallet,Delivered
+O00662,C0016,2024-01-15,Credit Card,Delivered
+O00663,C0088,2024-07-13,Credit Card,Delivered
+O00664,C0087,2024-03-27,Credit Card,Delivered
+O00665,C0069,2024-01-11,Digital Wallet,Delivered
+O00666,C0196,2024-12-07,Debit Card,Delivered
+O00667,C0217,2025-02-07,Credit Card,Delivered
+O00668,C0160,2025-01-15,Credit Card,Delivered
+O00669,C0110,2024-04-17,Debit Card,Delivered
+O00670,C0052,2024-07-31,Digital Wallet,Delivered
+O00671,C0048,2024-10-22,Digital Wallet,Delivered
+O00672,C0038,2024-05-03,Cash on Delivery,Delivered
+O00673,C0053,2025-03-09,Digital Wallet,Delivered
+O00674,C0061,2024-07-26,Cash on Delivery,Delivered
+O00675,C0119,2024-09-05,Digital Wallet,Delivered
+O00676,C0165,2025-03-12,Credit Card,Cancelled
+O00677,C0222,2024-02-02,Digital Wallet,Delivered
+O00678,C0029,2024-10-19,Credit Card,Delivered
+O00679,C0214,2024-10-26,Digital Wallet,Delivered
+O00680,C0113,2024-07-28,Debit Card,Delivered
+O00681,C0082,2024-10-06,Digital Wallet,Delivered
+O00682,C0093,2024-08-31,Debit Card,Delivered
+O00683,C0170,2025-02-13,Credit Card,Delivered
+O00684,C0093,2025-02-19,Credit Card,Delivered
+O00685,C0238,2024-05-10,Debit Card,Delivered
+O00686,C0197,2024-11-25,Digital Wallet,Delivered
+O00687,C0121,2025-01-12,Digital Wallet,Delivered
+O00688,C0026,2025-02-26,Cash on Delivery,Delivered
+O00689,C0117,2024-12-21,Credit Card,Delivered
+O00690,C0161,2024-06-05,Debit Card,Delivered
+O00691,C0213,2024-11-28,Cash on Delivery,Delivered
+O00692,C0176,2024-10-30,Debit Card,Delivered
+O00693,C0225,2024-07-12,Cash on Delivery,Delivered
+O00694,C0059,2024-02-15,Digital Wallet,Delivered
+O00695,C0023,2024-07-07,Cash on Delivery,Delivered
+O00696,C0212,2024-12-10,Digital Wallet,Delivered
+O00697,C0220,2024-04-15,Cash on Delivery,Returned
+O00698,C0203,2024-03-15,Credit Card,Delivered
+O00699,C0095,2024-10-25,Digital Wallet,Delivered
+O00700,C0189,2024-11-01,Debit Card,Delivered
+O00701,C0241,2024-12-09,Credit Card,Delivered
+O00702,C0011,2024-10-24,Cash on Delivery,Delivered
+O00703,C0037,2024-05-13,Credit Card,Delivered
+O00704,C0081,2025-01-12,Digital Wallet,Delivered
+O00705,C0014,2024-04-27,Cash on Delivery,Delivered
+O00706,C0011,2024-08-14,Debit Card,Returned
+O00707,C0090,2024-02-17,Cash on Delivery,Delivered
+O00708,C0070,2024-10-15,Cash on Delivery,Delivered
+O00709,C0175,2024-03-03,Digital Wallet,Delivered
+O00710,C0245,2024-05-17,Credit Card,Delivered
+O00711,C0243,2025-01-09,Cash on Delivery,Delivered
+O00712,C0191,2024-02-06,Digital Wallet,Delivered
+O00713,C0103,2024-02-15,Credit Card,Delivered
+O00714,C0245,2024-11-30,Cash on Delivery,Delivered
+O00715,C0025,2025-03-02,Debit Card,Delivered
+O00716,C0109,2025-02-19,Debit Card,Delivered
+O00717,C0088,2024-08-25,Cash on Delivery,Delivered
+O00718,C0112,2024-02-10,Digital Wallet,Delivered
+O00719,C0119,2024-12-04,Debit Card,Delivered
+O00720,C0047,2025-03-07,Digital Wallet,Delivered
+O00721,C0117,2025-01-22,Digital Wallet,Delivered
+O00722,C0192,2024-11-05,Debit Card,Delivered
+O00723,C0030,2024-01-07,Cash on Delivery,Delivered
+O00724,C0093,2024-12-19,Digital Wallet,Delivered
+O00725,C0209,2024-01-09,Cash on Delivery,Delivered
+O00726,C0216,2024-11-16,Cash on Delivery,Delivered
+O00727,C0190,2024-12-25,Digital Wallet,Cancelled
+O00728,C0101,2024-01-27,Debit Card,Delivered
+O00729,C0142,2024-05-28,Credit Card,Delivered
+O00730,C0183,2024-02-01,Credit Card,Delivered
+O00731,C0107,2025-03-31,Digital Wallet,Delivered
+O00732,C0050,2024-08-28,Debit Card,Delivered
+O00733,C0120,2024-03-08,Debit Card,Delivered
+O00734,C0168,2025-01-11,Debit Card,Delivered
+O00735,C0124,2024-03-07,Cash on Delivery,Delivered
+O00736,C0143,2024-01-25,Credit Card,Delivered
+O00737,C0229,2024-09-14,Credit Card,Delivered
+O00738,C0144,2024-04-24,Digital Wallet,Delivered
+O00739,C0225,2024-10-12,Debit Card,Delivered
+O00740,C0201,2024-11-08,Credit Card,Delivered
+O00741,C0223,2024-04-15,Debit Card,Delivered
+O00742,C0188,2025-03-21,Credit Card,Delivered
+O00743,C0113,2024-07-31,Credit Card,Delivered
+O00744,C0171,2024-05-05,Cash on Delivery,Delivered
+O00745,C0244,2025-03-12,Debit Card,Delivered
+O00746,C0242,2024-02-05,Credit Card,Delivered
+O00747,C0195,2024-01-19,Cash on Delivery,Delivered
+O00748,C0103,2025-03-29,Debit Card,Delivered
+O00749,C0231,2024-09-27,Cash on Delivery,Delivered
+O00750,C0202,2024-11-12,Digital Wallet,Delivered
+O00751,C0134,2024-10-03,Debit Card,Delivered
+O00752,C0228,2025-02-11,Debit Card,Delivered
+O00753,C0161,2024-09-16,Debit Card,Delivered
+O00754,C0061,2025-02-16,Cash on Delivery,Delivered
+O00755,C0097,2024-09-23,Cash on Delivery,Delivered
+O00756,C0106,2024-02-11,Credit Card,Delivered
+O00757,C0102,2025-03-22,Debit Card,Delivered
+O00758,C0130,2024-03-06,Digital Wallet,Delivered
+O00759,C0178,2024-04-18,Digital Wallet,Delivered
+O00760,C0029,2024-03-02,Debit Card,Delivered
+O00761,C0096,2024-06-04,Debit Card,Delivered
+O00762,C0047,2025-02-23,Digital Wallet,Delivered
+O00763,C0231,2024-06-21,Digital Wallet,Delivered
+O00764,C0116,2024-12-07,Digital Wallet,Delivered
+O00765,C0087,2024-10-03,Credit Card,Cancelled
+O00766,C0166,2024-03-04,Credit Card,Delivered
+O00767,C0129,2024-01-10,Credit Card,Delivered
+O00768,C0228,2024-10-23,Digital Wallet,Delivered
+O00769,C0088,2024-08-11,Cash on Delivery,Delivered
+O00770,C0197,2024-02-15,Cash on Delivery,Delivered
+O00771,C0047,2024-01-14,Credit Card,Delivered
+O00772,C0067,2024-07-11,Credit Card,Delivered
+O00773,C0131,2025-01-20,Digital Wallet,Delivered
+O00774,C0017,2024-09-04,Credit Card,Delivered
+O00775,C0173,2024-02-21,Cash on Delivery,Delivered
+O00776,C0129,2024-04-14,Cash on Delivery,Delivered
+O00777,C0016,2024-09-03,Debit Card,Delivered
+O00778,C0018,2024-06-02,Credit Card,Delivered
+O00779,C0225,2024-08-09,Cash on Delivery,Delivered
+O00780,C0035,2024-11-26,Credit Card,Delivered
+O00781,C0143,2024-12-22,Digital Wallet,Delivered
+O00782,C0173,2024-03-04,Debit Card,Cancelled
+O00783,C0215,2025-01-28,Credit Card,Delivered
+O00784,C0191,2024-01-11,Debit Card,Delivered
+O00785,C0057,2024-04-29,Digital Wallet,Cancelled
+O00786,C0156,2024-04-17,Credit Card,Delivered
+O00787,C0173,2024-12-15,Cash on Delivery,Delivered
+O00788,C0220,2024-04-26,Debit Card,Delivered
+O00789,C0241,2024-08-06,Credit Card,Delivered
+O00790,C0133,2024-08-26,Digital Wallet,Delivered
+O00791,C0002,2024-07-19,Cash on Delivery,Delivered
+O00792,C0161,2024-02-19,Credit Card,Delivered
+O00793,C0086,2024-09-23,Cash on Delivery,Delivered
+O00794,C0022,2024-02-01,Credit Card,Delivered
+O00795,C0027,2024-12-12,Credit Card,Delivered
+O00796,C0193,2024-07-29,Cash on Delivery,Delivered
+O00797,C0159,2024-02-21,Debit Card,Delivered
+O00798,C0004,2024-10-31,Credit Card,Delivered
+O00799,C0036,2025-02-12,Credit Card,Delivered
+O00800,C0194,2024-07-02,Debit Card,Delivered
+O00801,C0133,2024-10-27,Cash on Delivery,Delivered
+O00802,C0233,2024-04-13,Credit Card,Delivered
+O00803,C0158,2024-06-02,Digital Wallet,Delivered
+O00804,C0164,2024-04-24,Cash on Delivery,Delivered
+O00805,C0085,2025-02-17,Digital Wallet,Delivered
+O00806,C0092,2024-01-16,Credit Card,Delivered
+O00807,C0012,2024-01-16,Cash on Delivery,Delivered
+O00808,C0217,2024-10-10,Cash on Delivery,Delivered
+O00809,C0213,2024-12-12,Cash on Delivery,Delivered
+O00810,C0208,2024-07-09,Cash on Delivery,Delivered
+O00811,C0110,2024-11-21,Cash on Delivery,Delivered
+O00812,C0064,2024-01-28,Debit Card,Delivered
+O00813,C0131,2024-07-17,Debit Card,Delivered
+O00814,C0122,2024-05-17,Digital Wallet,Delivered
+O00815,C0102,2024-04-21,Debit Card,Delivered
+O00816,C0066,2024-10-08,Credit Card,Delivered
+O00817,C0150,2024-01-22,Digital Wallet,Delivered
+O00818,C0095,2025-02-15,Digital Wallet,Delivered
+O00819,C0166,2024-02-08,Debit Card,Delivered
+O00820,C0021,2025-02-06,Debit Card,Delivered
+O00821,C0052,2024-06-19,Cash on Delivery,Delivered
+O00822,C0036,2025-03-13,Debit Card,Delivered
+O00823,C0243,2024-07-26,Credit Card,Delivered
+O00824,C0060,2024-09-21,Digital Wallet,Delivered
+O00825,C0107,2024-04-17,Digital Wallet,Delivered
+O00826,C0003,2024-09-12,Debit Card,Delivered
+O00827,C0138,2024-06-02,Debit Card,Delivered
+O00828,C0155,2024-11-07,Digital Wallet,Returned
+O00829,C0049,2024-08-31,Credit Card,Delivered
+O00830,C0234,2024-07-16,Debit Card,Delivered
+O00831,C0095,2024-09-22,Credit Card,Delivered
+O00832,C0245,2025-03-19,Cash on Delivery,Delivered
+O00833,C0122,2024-03-22,Debit Card,Delivered
+O00834,C0103,2024-11-05,Cash on Delivery,Delivered
+O00835,C0089,2024-12-24,Debit Card,Delivered
+O00836,C0047,2024-12-23,Credit Card,Delivered
+O00837,C0231,2024-04-21,Digital Wallet,Delivered
+O00838,C0084,2024-07-28,Digital Wallet,Delivered
+O00839,C0164,2024-12-21,Digital Wallet,Delivered
+O00840,C0084,2024-12-09,Digital Wallet,Delivered
+O00841,C0244,2024-08-12,Cash on Delivery,Delivered
+O00842,C0156,2024-02-21,Cash on Delivery,Delivered
+O00843,C0040,2024-08-13,Debit Card,Delivered
+O00844,C0134,2024-11-24,Credit Card,Delivered
+O00845,C0198,2024-07-12,Cash on Delivery,Delivered
+O00846,C0108,2024-01-15,Credit Card,Delivered
+O00847,C0205,2025-03-03,Cash on Delivery,Delivered
+O00848,C0083,2024-10-14,Cash on Delivery,Delivered
+O00849,C0081,2024-01-07,Digital Wallet,Delivered
+O00850,C0012,2024-02-04,Cash on Delivery,Delivered
+O00851,C0146,2024-03-28,Debit Card,Cancelled
+O00852,C0082,2025-03-11,Digital Wallet,Delivered
+O00853,C0164,2025-01-14,Cash on Delivery,Delivered
+O00854,C0061,2025-01-12,Digital Wallet,Delivered
+O00855,C0053,2024-11-24,Credit Card,Delivered
+O00856,C0011,2024-09-23,Digital Wallet,Delivered
+O00857,C0085,2024-06-24,Cash on Delivery,Delivered
+O00858,C0185,2024-04-23,Digital Wallet,Delivered
+O00859,C0018,2024-04-08,Credit Card,Delivered
+O00860,C0152,2024-10-08,Cash on Delivery,Delivered
+O00861,C0051,2024-05-05,Digital Wallet,Delivered
+O00862,C0052,2024-05-19,Digital Wallet,Delivered
+O00863,C0006,2025-01-25,Digital Wallet,Delivered
+O00864,C0142,2025-01-07,Cash on Delivery,Delivered
+O00865,C0035,2025-01-01,Digital Wallet,Delivered
+O00866,C0096,2024-07-15,Digital Wallet,Delivered
+O00867,C0185,2024-06-27,Digital Wallet,Delivered
+O00868,C0189,2024-05-06,Cash on Delivery,Delivered
+O00869,C0149,2024-12-05,Cash on Delivery,Delivered
+O00870,C0225,2024-08-04,Cash on Delivery,Delivered
+O00871,C0169,2025-03-29,Digital Wallet,Delivered
+O00872,C0037,2024-05-17,Cash on Delivery,Delivered
+O00873,C0209,2024-09-08,Credit Card,Delivered
+O00874,C0046,2024-07-10,Cash on Delivery,Delivered
+O00875,C0116,2024-10-17,Cash on Delivery,Delivered
+O00876,C0067,2025-03-22,Digital Wallet,Delivered
+O00877,C0061,2024-09-01,Digital Wallet,Delivered
+O00878,C0171,2024-10-25,Credit Card,Delivered
+O00879,C0122,2025-01-22,Debit Card,Delivered
+O00880,C0062,2024-07-03,Digital Wallet,Delivered
+O00881,C0026,2024-01-02,Digital Wallet,Delivered
+O00882,C0223,2024-09-28,Debit Card,Cancelled
+O00883,C0132,2024-07-30,Cash on Delivery,Delivered
+O00884,C0189,2024-06-15,Digital Wallet,Delivered
+O00885,C0180,2024-02-21,Digital Wallet,Delivered
+O00886,C0201,2025-03-14,Credit Card,Delivered
+O00887,C0245,2024-02-29,Digital Wallet,Delivered
+O00888,C0180,2024-02-15,Credit Card,Delivered
+O00889,C0066,2024-12-06,Digital Wallet,Cancelled
+O00890,C0086,2025-03-22,Cash on Delivery,Delivered
+O00891,C0189,2025-01-06,Digital Wallet,Delivered
+O00892,C0023,2024-06-23,Cash on Delivery,Delivered
+O00893,C0245,2024-07-13,Credit Card,Delivered
+O00894,C0174,2025-02-11,Cash on Delivery,Delivered
+O00895,C0038,2025-02-21,Debit Card,Delivered
+O00896,C0206,2025-02-27,Credit Card,Delivered
+O00897,C0181,2024-10-20,Digital Wallet,Delivered
+O00898,C0016,2025-02-18,Debit Card,Delivered
+O00899,C0187,2024-07-19,Debit Card,Returned
+O00900,C0090,2025-01-22,Digital Wallet,Delivered
